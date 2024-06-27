@@ -1,0 +1,15 @@
+/home/mahuloq/projects/c#/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/home/mahuloq/projects/c#/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/mahuloq/projects/c#/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/mahuloq/projects/c#/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/mahuloq/projects/c#/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/mahuloq/projects/c#/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
